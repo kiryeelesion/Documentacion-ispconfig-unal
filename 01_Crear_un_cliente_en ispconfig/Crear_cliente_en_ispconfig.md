@@ -40,10 +40,10 @@ En el apartado de web limits seleccionamos
 - Max. number of web domains 1
 -  Web Quota 1000 MB
  - PHP
-	 - [ ] Disabled  
-	 - [x] Fast-CGI
-	 - [x] Mod-PHP
-	 - [x] PHP-FPM
+	- [ ] Disabled
+   	- [x] Fast-CGI
+   	- [x] Mod-PHP
+	- [x] PHP-FPM
 - SuEXEC forced
 - SSL available
 - Max. number of web aliasdomains lo ponemos en 0
