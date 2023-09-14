@@ -38,9 +38,9 @@ ahora nos dirigimos a la pestaña de limites
 En el apartado de web limits seleccionamos
 
 - Max. number of web domains 1
--  Web Quota 1000 MB
- - PHP
-	- [ ] Disabled
+- Web Quota 1000 MB
+- PHP
+   	- [ ] Disabled
    	- [x] Fast-CGI
    	- [x] Mod-PHP
 	- [x] PHP-FPM
