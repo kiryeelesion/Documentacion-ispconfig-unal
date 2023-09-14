@@ -40,10 +40,10 @@ En el apartado de web limits seleccionamos
 - Max. number of web domains 1
 - Web Quota 1000 MB
 - PHP
-   	- [ ] Disabled
-   	- [x] Fast-CGI
-   	- [x] Mod-PHP
-	- [x] PHP-FPM
+	 - [ ] Disabled  
+	 - [x] Fast-CGI
+	 - [x] Mod-PHP
+	 - [x] PHP-FPM
 - SuEXEC forced
 - SSL available
 - Max. number of web aliasdomains lo ponemos en 0
@@ -53,7 +53,7 @@ En el apartado de web limits seleccionamos
 - SSH-Chroot Options
 	- [ ] None
 	- [x] Jailkit
-- Backupfunction available: lo dejamos desmarcado si no queremos que el cliente pueda hacer backups, encaso de lo contrario lo marcamos.s 
+- Backupfunction available: lo dejamos desmarcado si no queremos que el cliente pueda hacer backups, encaso de lo contrario lo marcamos.
 
 ![](assets/04_web_limits.png)
 
